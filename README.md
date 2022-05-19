@@ -3,8 +3,11 @@ This is  a todo-list challenge submission for simba groups https://www.joinsimba
 
    ** FEATURES:**
 I) ADD NEW TASK
+
 II) TASK LISTING
+
 III) EDIT AND UPDATE TASK
+
 IV) MARKING OUT COMPLETED TASK
 
 
